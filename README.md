@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+## My Skills:
+- Programming Languages: PHP, JS, TypeScript, Python
+- Frameworks: SlimPHP
+- Databases: PostgreSQL, MySQL, MongoDB
+- Other technologies: Git, PHPUnit, HTNL, CSS, ElasticSearch, Redis, Docker, NodeJS, React
 <!--
 **VladSmorodsky/VladSmorodsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
