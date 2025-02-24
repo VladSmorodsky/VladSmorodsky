@@ -3,7 +3,7 @@
 - Programming Languages: PHP, JS, TypeScript, Python
 - Frameworks: SlimPHP
 - Databases: PostgreSQL, MySQL, MongoDB, Redis, ElasticSearch
-- Other technologies: Git, PHPUnit, HTML, CSS, Docker, NodeJS, React
+- Other technologies: Git, PHPUnit, HTML, CSS, Docker, NodeJS, React, pytest
 <!--
 **VladSmorodsky/VladSmorodsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
