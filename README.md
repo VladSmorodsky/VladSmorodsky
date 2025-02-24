@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there! 👋
 ## My Skills:
 - Programming Languages: PHP, JS, TypeScript, Python
 - Frameworks: SlimPHP
