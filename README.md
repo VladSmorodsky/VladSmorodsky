@@ -1,7 +1,7 @@
 ## Hello there! 👋
 ## My Skills:
 - Programming Languages: PHP, JS, TypeScript, Python
-- Frameworks: SlimPHP, Django
+- Frameworks: SlimPHP, Laravel, Django, FastAPI
 - Databases: PostgreSQL, MySQL, MongoDB, Redis, ElasticSearch
 - Other technologies: Git, PHPUnit, HTML, CSS, Docker, NodeJS, React, pytest
 <!--
