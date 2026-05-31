@@ -4,6 +4,7 @@
 - Frameworks: SlimPHP, Laravel, Django, FastAPI
 - Databases: PostgreSQL, MySQL, MongoDB, Redis, ElasticSearch
 - Other technologies: Git, PHPUnit, HTML, CSS, Docker, NodeJS, React, pytest
+- AI: LangGraph, LangChain
 <!--
 **VladSmorodsky/VladSmorodsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
